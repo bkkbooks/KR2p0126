@@ -19,6 +19,8 @@ markers:
   - {type: xml-element, offset: 43, content: '', id: KR2p0126_CHANT_001-bkkxmlele4, name: p, role: close}
   - {type: xml-element, offset: 43, content: '', id: KR2p0126_CHANT_001-bkkxmlele5, name: p, role: open}
   - {type: 'tls:seg', offset: 43, content: '', id: KR2p0126_CHANT_001-1a.7}
+  - {type: substitution, offset: 45, original: 𤎩, replacement: 燧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-3170}}
+  - {type: substitution, offset: 53, original: 廿, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20144}}
   - {type: punctuation, offset: 56, content: 、, id: KR2p0126_CHANT_001-bkkpn5}
   - {type: punctuation, offset: 63, content: ，, id: KR2p0126_CHANT_001-bkkpn6}
   - {type: 'tls:seg', offset: 63, content: '', id: KR2p0126_CHANT_001-1a.8}
@@ -85,4 +87,4 @@ markers:
   - {type: 'tls:seg', offset: 132, content: '', id: KR2p0126_CHANT_001-5a.2}
   - {type: xml-element, offset: 132, content: '', id: KR2p0126_CHANT_001-bkkxmlele24, name: p, role: close}
   back: []
-hash: sha256:d90c5a017a20a643e17783724b63b802c11ec0e7c56b6c102871d2fa193d20b8
+hash: sha256:a48859a37c0de653ac058a56b44866a26ce5d017bd291547424ee5b8e6e92f33
